@@ -1,0 +1,1 @@
+export { EntityValidator } from './src'
